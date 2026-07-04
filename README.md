@@ -41,10 +41,6 @@ My contributions included:
 - Testing
 - Pull Requests and code reviews
 - Git workflow using feature branches
-
-Repository:
-https://github.com/AlanKevinCT/Ada
-
 ---
 
 ### Regex to NFA Compiler
